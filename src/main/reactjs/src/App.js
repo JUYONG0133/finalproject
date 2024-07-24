@@ -7,6 +7,7 @@ function App() {
            style={{width:'300px',border:'5px inset gray'}}
       />
       <h3><b>배포</b></h3>
+      <h3><b>성공</b></h3>
     </div>
   );
 }
